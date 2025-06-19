@@ -29,5 +29,5 @@ Abra um no prompt de comando e certifique-se de que você esteja dentro da pasta
 Abra um no prompt de comando e certifique-se de que você esteja dentro da pasta "Nutrinee", e então digite:
 
 - cd frontend
-- npm install
+- npm install --force
 - npm run dev
