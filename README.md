@@ -19,15 +19,15 @@ Em "ATLAS_URI" você vai colocar em qual banco de dados do MongoDB Atlas ele vai
 
   4 - Como habilitar o backend?
 
-Certifique-se de que no prompt de comando você esteja dentro da pasta "Nutrinee", e então digite:
+Abra um no prompt de comando e certifique-se de que você esteja dentro da pasta "Nutrinee", e então digite:
 
 - npm install
 - npm run dev
 
 5 - Como habilitar o frontend?
 
-Certifique-se de que no promt de comando você esteja dentro da pasta "Nutrinee", e então digite:
+Abra um no prompt de comando e certifique-se de que você esteja dentro da pasta "Nutrinee", e então digite:
 
-- npm install
 - cd frontend
+- npm install
 - npm run dev
