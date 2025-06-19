@@ -14,7 +14,7 @@ Você precisa do drive do mongodb, então caso você não possua, dentro do cmd 
 
 - npm install mongodb
 
-  4 - Como abrir o site?
+4 - Como abrir o site?
 
 Para abrir o site, você precisa criar um arquivo chamado ".env" dentro da pasta "Nutrinee", dentro dele você vai colocar:
 
