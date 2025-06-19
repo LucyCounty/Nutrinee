@@ -21,11 +21,13 @@ Em "ATLAS_URI" você vai colocar em qual banco de dados do MongoDB Atlas ele vai
 
 Certifique-se de que no prompt de comando você esteja dentro da pasta "Nutrinee", e então digite:
 
+- npm install
 - npm run dev
 
 5 - Como habilitar o frontend?
 
 Certifique-se de que no promt de comando você esteja dentro da pasta "Nutrinee", e então digite:
 
+- npm install
 - cd frontend
 - npm run dev
