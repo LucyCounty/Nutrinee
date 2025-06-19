@@ -10,7 +10,7 @@ Sobre a utilização do site está tudo explicado no vídeo chamado "Nutrinee si
 
   3 - Como abrir o site?
 
-Para abrir o site, você precisa criar um arquivo chamado ".env", dentro dele você vai colorar:
+Para abrir o site, você precisa criar um arquivo chamado ".env" dentro da pasta "Nutrinee", dentro dele você vai colocar:
 
 - ATLAS_URI=""
 - PORT=
