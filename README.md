@@ -6,7 +6,7 @@ Nutrinee é um site focado em Nutrição com personal trainee, nele guarda todas
 
   2 - Como funciona o site?
 
-Sobre a utilização do site está tudo explicado no vídeo chamado "Nutrinee site.mkv"
+Sobre a utilização do site está tudo explicado no vídeo chamado "Nutrinee site.mp4" ou pelo vídeo no youtube: https://youtu.be/uO27EgjoJuo
 
   3 - Como abrir o site?
 
